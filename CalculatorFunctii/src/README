@@ -1,2 +1,13 @@
 1: Iterator pattern
 2:Decorator pattern
+
+Am ales sa fac o aplicatie pentru a calcula functiile de gradul 1 si 2. Am pus in practica aceasta idee fiindca o consider utila atat elevilor cat si profesorilor.
+Aplicatia are o interfata simpla de tip chose 1-2-3.
+
+Pentru optiunea 1 se introduc datele functiei de gradul 1, pentru optiunea 2 se introduc datele functiei de gradul 2 iar optiunea 3 afiseaza in ordinea
+introducerii rezultatele pentru fiecare functie, numerotandu-le si spunand tipul functiei.
+Alegerea unei optiuni si repercusiunea ei se executa in loop pentru 1 si 2 iar la 3 se incheie cu afisarea rezultatelor.
+
+Iterator pattern este folosit pentru a putea parcurge si afisa rezultatele functiilor calculate.
+Decorator pattern este folosit pentru a putea citi de la tastatura, cu util.scanner, datele de intrare pentru functii.
+
